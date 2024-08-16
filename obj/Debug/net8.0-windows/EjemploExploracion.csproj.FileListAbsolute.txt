@@ -1,0 +1,16 @@
+C:\USPG\ProgramacionII\EjemploExploracion\bin\Debug\net8.0-windows\EjemploExploracion.exe
+C:\USPG\ProgramacionII\EjemploExploracion\bin\Debug\net8.0-windows\EjemploExploracion.deps.json
+C:\USPG\ProgramacionII\EjemploExploracion\bin\Debug\net8.0-windows\EjemploExploracion.runtimeconfig.json
+C:\USPG\ProgramacionII\EjemploExploracion\bin\Debug\net8.0-windows\EjemploExploracion.dll
+C:\USPG\ProgramacionII\EjemploExploracion\bin\Debug\net8.0-windows\EjemploExploracion.pdb
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.Form1.resources
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.csproj.GenerateResource.cache
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.AssemblyInfoInputs.cache
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.AssemblyInfo.cs
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.csproj.CoreCompileInputs.cache
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.dll
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\refint\EjemploExploracion.dll
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.pdb
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\EjemploExploracion.genruntimeconfig.cache
+C:\USPG\ProgramacionII\EjemploExploracion\obj\Debug\net8.0-windows\ref\EjemploExploracion.dll
